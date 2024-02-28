@@ -27,10 +27,6 @@
   pip install -r requirements.txt
   ```
 
-### Using Provided Virtual Environment
-- Alternatively, you can use the provided virtual environment for this project. Download the virtual environment from the following GitHub repository: [Project Virtual Environment](https://github.com/your-username/project-env).
-- Once downloaded, extract the contents and activate the virtual environment as mentioned above.
-
 ### Running the Project
 - Once the dependencies are installed and the virtual environment is activated, you can run the project by executing the `main.py` script. Use the following command:
   ```
